@@ -1,0 +1,15 @@
+@import "../bower_components/furtive/scss/all";
+
+.hero {
+  @extend .bg-gray-light-8;
+  padding: 4rem 0;
+}
+
+.bg--trees {
+  background: url(../images/snowy-trees.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.semi-muted {
+  opacity: 0.9;
+}

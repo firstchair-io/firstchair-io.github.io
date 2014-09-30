@@ -1,0 +1,12 @@
+# Site settings
+title: firstchair.io
+email: johnotander@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The new way to track snowfall
+baseurl: ""
+url: "http://firstchair.io"
+twitter_username: 
+github: https://github.com/firstchair-io
+
+# Build settings
+markdown: kramdown
